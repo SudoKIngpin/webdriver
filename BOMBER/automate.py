@@ -1,7 +1,7 @@
 
 import time 
 from selenium import webdriver
-browser=webdriver.Edge(r'msedgedriver.exe')
+browser=webdriver.Edge(r'BOMBER/msedgedriver.exe')
 #browser.get("https://google.com")
 
 
